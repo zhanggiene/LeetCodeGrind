@@ -28,7 +28,11 @@
 [1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted) (H-)  
 [1580.Put-Boxes-Into-the-Warehouse-II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1580.Put-Boxes-Into-the-Warehouse-II) (H-)  
 [1687.Delivering-Boxes-from-Storage-to-Ports](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1687.Delivering-Boxes-from-Storage-to-Ports) (H)  
-[1793.Maximum-Score-of-a-Good-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1793.Maximum-Score-of-a-Good-Subarray) (M+)  
+[1793.Maximum-Score-of-a-Good-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1793.Maximum-Score-of-a-Good-Subarray) (M+)
+use mininum value as basis and slowly expand the range, then u slowly increase the basis by choosing the new edge as new basis https://www.youtube.com/watch?v=OcqPeux47fU&ab_channel=HuifengGuan 
+
+
+
 [1798.Maximum-Number-of-Consecutive-Values-You-Can-Make](https://github.com/wisdompeak/LeetCode/blob/master/Greedy/1798.Maximum-Number-of-Consecutive-Values-You-Can-Make) (H-) 
 x
             3.        4
