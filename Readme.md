@@ -15,7 +15,7 @@
 [075.Sort-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/075.Sort-Colors) (M+) three pointer approach (https://www.youtube.com/watch?v=4xbWSRZHqac)   
 [026.Remove Duplicates from Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/026.Remove-Duplicates-from-Sorted-Array) (H-)  
 [080.Remove Duplicates from Sorted Array II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/080.Remove-Duplicates-from-Sorted-Array-II) (H)    
-[209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)    
+[209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)(one pointer to right one by one, the other pointer contract if neccessary and update the length accordingly)   
 [088.Merge Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
 [283.Move-Zeroes](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/283.Move-Zeroes) (M)      
 [141.Linked-List-Cycle](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/141.Linked-List-Cycle) (E+)      
