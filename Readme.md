@@ -12,7 +12,7 @@
 [018.4Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/018.4Sum) (M)           
 [259.3Sum-Smaller](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/259.3Sum-Smaller) (M+) (you can add the whole set, not just one by one )      
 [030.Substring-with-Concatenation-of-All-Words](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/030.Substring-with-Concatenation-of-All-Words) (H)     
-[075.Sort-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/075.Sort-Colors) (M+)    
+[075.Sort-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/075.Sort-Colors) (M+) three pointer approach (https://www.youtube.com/watch?v=4xbWSRZHqac)   
 [026.Remove Duplicates from Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/026.Remove-Duplicates-from-Sorted-Array) (H-)  
 [080.Remove Duplicates from Sorted Array II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/080.Remove-Duplicates-from-Sorted-Array-II) (H)    
 [209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)    
