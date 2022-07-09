@@ -30,7 +30,7 @@
 [1687.Delivering-Boxes-from-Storage-to-Ports](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1687.Delivering-Boxes-from-Storage-to-Ports) (H)  
 [1793.Maximum-Score-of-a-Good-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1793.Maximum-Score-of-a-Good-Subarray) (M+)  
 [1798.Maximum-Number-of-Consecutive-Values-You-Can-Make](https://github.com/wisdompeak/LeetCode/blob/master/Greedy/1798.Maximum-Number-of-Consecutive-Values-You-Can-Make) (H-)  
-[1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)      
+[1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)    ???????  
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
 [611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   
@@ -49,7 +49,7 @@
 [003.Longest-Substring-Without-Repeating-Character](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/003.Longest%20Substring%20Without%20Repeating%20Characters) (E+)  
 [159.Longest-Substring-with-At-Most-Two-Distinct-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/159.Longest-Substring-with-At-Most-Two-Distinct-Characters)(H-)    
 [340.Longest-Substring-with-At-Most-K-Distinct-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/340.Longest-Substring-with-At-Most-K-Distinct-Characters) (H)    
-[992.Subarrays-with-K-Different-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/992.Subarrays-with-K-Different-Integers) (H-)    
+[992.Subarrays-with-K-Different-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/992.Subarrays-with-K-Different-Integers) (H-)   
 * ``Two pointers for two seuqences``    
 [986.Interval-List-Intersections](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/986.Interval-List-Intersections) (M)  
 [1229.Meeting-Scheduler](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1229.Meeting-Scheduler) (M+)  
