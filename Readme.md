@@ -32,7 +32,9 @@
 [1798.Maximum-Number-of-Consecutive-Values-You-Can-Make](https://github.com/wisdompeak/LeetCode/blob/master/Greedy/1798.Maximum-Number-of-Consecutive-Values-You-Can-Make) (H-) 
 x
             3.        4
-[0.....currentMax].  [x..... currentMax+x]        if this two segment is continuous, 
+            
+[0.....currentMax].  [x..... currentMax+x]        if this two segment is continuous
+
 [1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)    ???????  
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
