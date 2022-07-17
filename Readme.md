@@ -42,7 +42,7 @@ x
 [1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)    ???????  
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
-[611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   
+[611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+) done  
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)   
 [1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M)    
