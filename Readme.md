@@ -42,9 +42,15 @@ x
 [1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)    ???????  
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
-[611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+) done  
+[611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+) done
+
+
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)  hashmap 
-[1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
+
+
+[1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M) done
+
+
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M)    
 [1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)  
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H)    
