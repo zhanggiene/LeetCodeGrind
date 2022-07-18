@@ -3,6 +3,8 @@
 #### My LeetCode Daily Problem & Contest Group: [See rules and score board here](https://wisdompeak.github.io/lc-score-board/)
 (If you are interested in joining this group, ping me guan.huifeng@gmail.com)
 
+For array problems, sort if order does not matter.
+
 ### LeetCode难题代码和算法要点分析
 #### 目前分类目录
 #### [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
